@@ -2,7 +2,7 @@
 
 +Welcome to the site!
 
-My name is Marc Brunson.  My future goal in the job world is the geothermal research field.  Geothermal energy is an alternative energy which uses heated water from a source that can be a recycled source.  It's not widely available but the purpose of getting into the field is to help utilize the availability. 
+ My name is Marc Brunson.  My future goal in the job world is the geothermal research field.  Geothermal energy is an alternative energy  which uses heated water from a source that can be a recycled source.  It's not widely available but the purpose of getting into the field is to help utilize the availability. 
 +
 +## Employment:
 +
